@@ -1,0 +1,7 @@
+﻿  sec01.c
+c:\users\junmi\documents\visual studio 2015\projects\c_programing_power_upgrade\c_programing_power_upgrade\sec01.c(19): warning C4020: 'puts': 실제 매개 변수가 너무 많습니다.
+c:\users\junmi\documents\visual studio 2015\projects\c_programing_power_upgrade\c_programing_power_upgrade\sec01.c(21): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\junmi\documents\visual studio 2015\projects\c_programing_power_upgrade\c_programing_power_upgrade\sec01.c(59): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+  c:\users\junmi\documents\visual studio 2015\projects\c_programing_power_upgrade\c_programing_power_upgrade\sec01.c(59): note: 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+  c_programing_power_upgrade.vcxproj -> c:\users\junmi\documents\visual studio 2015\Projects\c_programing_power_upgrade\Debug\c_programing_power_upgrade.exe
+  c_programing_power_upgrade.vcxproj -> c:\users\junmi\documents\visual studio 2015\Projects\c_programing_power_upgrade\Debug\c_programing_power_upgrade.pdb (Full PDB)
